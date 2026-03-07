@@ -1,0 +1,10 @@
+# Python önbellek dosyaları
+__pycache__/
+*.pyc
+
+# Sanal ortam (Virtual Environment)
+venv/
+env/
+
+# Çevresel değişkenler
+.env
